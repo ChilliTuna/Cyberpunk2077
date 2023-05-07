@@ -1,4 +1,9 @@
 #reload countrycolors
+
+WAR = {
+	color = rgb { 252 198 3 }
+	color_ui = rgb { 62  14  252 }
+}
 NUS = {
 	color = rgb { 20 133 237 }
 	color_ui = rgb { 87 160 255 }
