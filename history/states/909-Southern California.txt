@@ -1,0 +1,19 @@
+state={
+	id=909
+	name="STATE_909"
+	
+	history={
+	owner = SOC
+	add_core_of = SOC
+	     victory_points = {
+			1562 15 
+		}
+	}
+	
+	provinces={
+		823 941 986 1562 1651 3784 4657 4727 6881 7517 7986 9814 9855 9911 10387 10483 11757 11795 11859 11876 12303 12374 
+	}
+	manpower=5677248
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
