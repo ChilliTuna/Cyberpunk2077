@@ -1,0 +1,18 @@
+state={
+	id=910
+	name="STATE_910"
+	
+	history={
+	owner = NIC
+	add_core_of = NIC
+		victory_points = {
+					3840
+			}
+	}
+	provinces={
+		3840 
+	}
+	manpower=58000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

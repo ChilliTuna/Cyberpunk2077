@@ -918,3 +918,7 @@ TTS = {
 	color = rgb { 230 230 0 }
 	color_ui = rgb { 179 179 0 }
 }
+NIC = {
+	color = rgb { 102 0 102 }
+	color_ui = rgb { 102 0 102 }
+}
