@@ -12,8 +12,8 @@ WCS = {
 	color_ui = rgb { 24 189 24 }
 }
 GER = {
-	color = rgb { 0  60  255 }
-	color_ui = rgb { 0  60  255 }
+	color = rgb { 0  20  137 }
+	color_ui = rgb { 0  20  137 }
 }
 WYO = {
 	color = HSV { 243 26 26 }

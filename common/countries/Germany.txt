@@ -3,4 +3,4 @@
 graphical_culture = western_european_gfx
 graphical_culture_2d = western_european_2d
 	 
-color = { 226  100  100 } # { 0  60  255 }
+color = { 0  20  137 } # { 0  20  137 }
