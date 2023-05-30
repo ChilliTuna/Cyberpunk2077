@@ -1,23 +1,5 @@
-﻿capital = 64
+﻿capital = 6
 
-GER = { puppet = FRA }
-GER = { puppet = POL }
-GER = { puppet = SLO }
-GER = { puppet = SPR }
-GER = { puppet = POR }
-GER = { puppet = BUL }
-GER = { puppet = ROM }
-GER = { puppet = LAT }
-GER = { puppet = LIT }
-GER = { puppet = EST }
-GER = { puppet = GRE }
-GER = { puppet = ITA }
-GER = { puppet = ENG }
-GER = { puppet = BEL }
-GER = { puppet = HOL }
-GER = { puppet = LUX }
-GER = { puppet = AUS }
-GER = { puppet = CZE }
 if = {
 	limit = {
 		NOT = {
